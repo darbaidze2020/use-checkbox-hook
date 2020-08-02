@@ -3,8 +3,15 @@
   "version": "0.0.1",
   "private": false,
   "author": "Giorgi Darbaidze",
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/darbaidze2020/use-checkbox-hook",
+  "repository": "https://github.com/darbaidze2020/use-checkbox-hook",
+  "keywords": [
+    "checkbox",
+    "checkbox-hook",
+    "react",
+    "react-hook"
+  ],
+  "main": "src/index.ts",
   "dependencies": {
     "@types/react": "^16.9.0",
     "react": "^16.13.1",
