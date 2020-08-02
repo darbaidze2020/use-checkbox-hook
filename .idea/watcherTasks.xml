@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <enabled-global>
+      <option value="Prettier" />
+      <option value="Eslint fix TSX" />
+      <option value="Eslint fix TS" />
+      <option value="Eslint fix JS" />
+      <option value="Eslint fix JSX" />
+      <option value="Eslint auto fix  JSX" />
+      <option value="Prettier  format onsave" />
+    </enabled-global>
+  </component>
+</project>
