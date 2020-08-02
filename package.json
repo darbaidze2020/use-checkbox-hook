@@ -4,7 +4,13 @@
   "private": false,
   "author": "Giorgi Darbaidze",
   "homepage": "https://github.com/darbaidze2020/use-checkbox-hook",
-  "repository": "https://github.com/darbaidze2020/use-checkbox-hook",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darbaidze2020/use-checkbox-hook.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "checkbox",
     "checkbox-hook",
