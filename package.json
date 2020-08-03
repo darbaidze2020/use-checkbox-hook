@@ -17,17 +17,14 @@
     "react",
     "react-hook"
   ],
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "dependencies": {
     "@types/react": "^16.9.0",
     "react": "^16.13.1",
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "tsc"
   },
   "eslintConfig": {
     "extends": "react-app"
