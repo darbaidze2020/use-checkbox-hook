@@ -18,7 +18,8 @@
     "react-hook"
   ],
   "main": "dist/index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "@types/react": "^16.9.0",
     "react": "^16.13.1",
     "typescript": "~3.7.2"
