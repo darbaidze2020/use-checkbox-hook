@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97d3a9c-804b-42ce-a59d-84dcf9b98dee" name="Default Changelist" comment="Add package config, ignore .idea">
+    <list default="true" id="c97d3a9c-804b-42ce-a59d-84dcf9b98dee" name="Default Changelist" comment="Change git repository in config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -37,9 +37,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -47,6 +50,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,7 +75,15 @@
       <workItem from="1596114012833" duration="2260000" />
       <workItem from="1596265530346" duration="5048000" />
       <workItem from="1596298357719" duration="6175000" />
-      <workItem from="1596357771015" duration="2773000" />
+      <workItem from="1596357771015" duration="3393000" />
+      <workItem from="1596373428767" duration="1000" />
+      <workItem from="1596384269533" duration="267000" />
+      <workItem from="1596384604307" duration="43000" />
+      <workItem from="1596384657836" duration="88000" />
+      <workItem from="1596384749176" duration="30000" />
+      <workItem from="1596384787457" duration="38000" />
+      <workItem from="1596384833408" duration="10000" />
+      <workItem from="1596444572217" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Add package config, ignore .idea">
       <created>1596358983210</created>
@@ -80,11 +92,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596358983210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change git repository in config">
+      <created>1596361438453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596361438453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add package config, ignore .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add package config, ignore .idea" />
+    <MESSAGE value="Change git repository in config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change git repository in config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="706" y="345" width="570" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591358165118">
@@ -116,15 +136,16 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1591261845682" />
-    <state x="504" y="198" width="984" height="737" key="SettingsEditor" timestamp="1596108260724">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="449" y="169" width="984" height="737" key="SettingsEditor" timestamp="1596384824786">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="449" y="169" key="SettingsEditor/0.0.1920.1040/1920.0.1024.768@0.0.1920.1040" timestamp="1596384824786" />
     <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591272029650" />
     <state x="504" y="198" width="984" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1596108260724" />
-    <state x="591" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1596358984460">
+    <state x="591" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1596361439652">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="591" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1596358984460" />
+    <state x="591" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1596361439652" />
     <state x="322" y="188" width="1155" height="858" key="find.popup" timestamp="1596272851895">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
