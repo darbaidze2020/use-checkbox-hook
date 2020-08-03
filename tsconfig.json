@@ -15,6 +15,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "declaration": true,
+    "declarationDir": "./",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": false,
@@ -24,7 +25,5 @@
     "downlevelIteration": true,
     "outDir": "dist"
   },
-  "include": [
-    "src"
-  ]
+  "exclude": ["dist", "node_modules"]
 }
