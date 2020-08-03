@@ -25,7 +25,8 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm build"
   },
   "eslintConfig": {
     "extends": "react-app"
